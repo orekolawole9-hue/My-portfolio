@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +8,7 @@
     <style>
    
 
-        /* Text animation */
+    
         .animated-text {
             opacity: 0;
             animation: fadeBounce 1.2s forwards;
@@ -188,7 +187,7 @@
             <h2 class="animated-text" style="font-family: sans-serif; font-weight: boldest; text-align: center;">Whether you need a professional media website, an e-commerce store, a portfolio, or even a custom system like a booking or VTU platform, i can handle the full process - from design to deployment. We can Handle: Remote, Hybrid, On-site</h2>
             <p class="animated-text" style="font-size: 18px; font-family: Helvetica; font-weight: light; text-align: center;">i'm someone with a unique blend of creativity and logic, shaped by my background in coding and my passion for music. On one side, i enjoy the precision and problem-solving that comes with programming-building solutions, exploring new technologies, and turning ideas into working projects. On the other side, music fuels my creativity and self-expression, giving me a way to connect emotonally and think outside the box. Together, these two worlds make me who i am: a person who thrives at the intersection of technical skill and artistic expression </p>
         </section>
-        </section>
+        
         <section id="skills">
                 <h2 class="animated-text">Skills</h2>
                 <div class="skills">
@@ -247,7 +246,8 @@
             </div>
             <div class="contact-icons" style="justify-content: center; gap: 2rem; margin-top: 1.5rem;">
                 <a href="https://www.facebook.com/share/166Wxc2FeE/" title="Facebook" target="_blank"><i class="fab fa-facebook"></i></a>
-            </div>
+            </div><img width="616" height="685" alt="img" src="https://github.com/user-attachments/assets/84d0ecbf-cf5c-4d93-9b28-65508bee141d" />
+
             <div class="contact-icons" style="justify-content: center; gap: 2rem; margin-top: 1.5rem;">
                 <a href="https://x.com/ORECODEX?t=GHCbm160by2kqJ5aOMrlcA&s=09" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
             </div>
